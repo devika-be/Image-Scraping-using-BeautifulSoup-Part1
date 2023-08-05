@@ -32,4 +32,7 @@ Set the download_path variable to the path where you want to save the downloaded
 ## 5. Conclusion:
 The image scraping project using BeautifulSoup allows you to quickly and efficiently collect images from a website. This report provides an overview of the project's setup, implementation steps, and usage instructions. You can further enhance this project by adding error handling, implementing pagination support for multiple pages, or using multithreading to improve performance when dealing with a large number of images. 
 
+## 6. Model:
+This is the first part of this project you can find this second part here [**Model**](https://github.com/devika-be/Image-Scraping-using-BeautifulSoup-Model-Part2)
+
 # Happy scraping!
