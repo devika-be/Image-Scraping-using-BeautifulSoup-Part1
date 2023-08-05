@@ -11,8 +11,8 @@ To run this project, you need to have Python installed on your system and the fo
 * logging
 * BeautifulSoup
 
-#### You can install these libraries using the following command:
-### pip install requests beautifulsoup4
+### You can install these libraries using the following command:
+#### pip install requests beautifulsoup4
 
 ## 3. Implementation:
 The project is implemented in Python and consists of the following steps:
