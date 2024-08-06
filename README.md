@@ -1,6 +1,7 @@
 # Image-Scraping-using-BeautifulSoup
 Image Scraping Project using BeautifulSoup
 
+
 ## 1. Introduction:
 The purpose of this project is to scrape images from a given website using the BeautifulSoup library in Python. The project involves using the requests library to fetch the HTML content of the web page, and then parsing it using BeautifulSoup to extract image URLs. The project aims to automate the process of collecting images from a website, which can be useful for various purposes like data collection, image analysis, or creating image datasets.
 
